@@ -12,8 +12,8 @@ enableEmoji = true
 paginate = 6
 
 [params.banner]
-    src = "banner2.png"
-    alt = "Kashif كاشف"
+    src = "banner.svg"
+    alt = ""
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
