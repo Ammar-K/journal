@@ -94,16 +94,12 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>About Hugo XMag</title>
+      <title>About KASHIF Journal</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMag is the second Hugo theme I have designed. It is based on my first Hugo theme XMin, and similarly, features minimalism but with a magazine style on the homepage inspired by The Signpost on Wikipedia. You can find its source code on Github: https://github.com/yihui/hugo-xmag (licensed under MIT).
-Features This theme includes a few cool features:
- Responsive article summary blocks on homepage
- Thumbnails in summary blocks
- Magazine title in Blackletter (&amp;Bfr;&amp;Lfr;&amp;Afr;&amp;Cfr;&amp;Kfr; &amp;Lfr;&amp;Efr;&amp;Tfr;&amp;Tfr;&amp;Efr;&amp;Rfr;)</description>
+      <description>KASHIF Journal is a data journalism project aiming to:- 1. provide data based articles. 2. Investigate suspicious news. 3. Educate professionals and public.</description>
     </item>
     
   </channel>
