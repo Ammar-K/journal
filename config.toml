@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "news"
+title = "KAHIF Journal"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -12,7 +12,7 @@ enableEmoji = true
 paginate = 6
 
 [params.banner]
-    src = "banner.svg"
+    src = "/banner_new.png"
     alt = ""
 
 [permalinks]
@@ -42,7 +42,7 @@ paginate = 6
     description = "A Saudi Data Journal"
     summary_length = 300
     github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
-    footer = "&copy; Kashif 2018 | [Github](https://github.com/Ammar-K/journal) | [Twitter](https://twitter.com/)"
+    footer = "&copy; Kashif 2018 | [Github](https://github.com/Ammar-K/journal) | [Twitter](https://twitter.com/kashifjournal)"
 
 [params.text]
     back = "&larr; Back to Home"
