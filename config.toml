@@ -49,6 +49,5 @@ paginate = 6
     edit = "Edit this page &rarr;"
     truncated = "&hellip;"
     
-...
 [outputs]
   home = ["HTML", "RSS", "JSON"]
