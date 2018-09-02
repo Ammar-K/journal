@@ -1,4 +1,4 @@
-baseurl = "https://www.kashifjournal.com"
+baseurl = "https://www.kashifjournal.com/"
 languageCode = "en-us"
 title = "KAHIF Journal"
 theme = "hugo-xmag"
