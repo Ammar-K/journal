@@ -5,14 +5,14 @@ googleAnalytics = "UA-111470283-2"
 disqusShortname = "kashifjournal"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "â©"
+footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
 
 [languages]
   [languages.ar]
-    title = "صحيفة كاشف"
+    title = "?????????? ????????"
     weight = 1
   [languages.en]
     title = "KAHIF Journal"
