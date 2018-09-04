@@ -1,18 +1,18 @@
 baseurl = "https://www.kashifjournal.com/"
-DefaultContentLanguage = "ar-sa"
+DefaultContentLanguage = "ar"
 theme = "hugo-xmag"
 googleAnalytics = "UA-111470283-2"
 disqusShortname = "kashifjournal"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-footnotereturnlinkcontents = "↩"
+footnotereturnlinkcontents = "â©"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
 
 [languages]
   [languages.ar]
-    title = "?????????? ????????"
+    title = "صحيفة كاشف"
     weight = 1
   [languages.en]
     title = "KAHIF Journal"
@@ -48,7 +48,7 @@ paginate = 6
 [params]
     description = "A Saudi Data Journal"
     summary_length = 300
-    github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
+    github_edit = "/"
     footer = "&copy; Kashif 2018 | [Github](https://github.com/Ammar-K/journal) | [Twitter](https://twitter.com/kashifjournal)"
 
 [params.text]
