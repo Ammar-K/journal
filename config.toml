@@ -37,14 +37,36 @@ paginate = 6
     name = "Categories"
     url = "/categories/"
     weight = 3
-[[menu.main]]
+[[menu.main]] 
     name = "Tags"
     url = "/tags/"
     weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
-
+    
+[[menu.main]]
+    name = "الرئيسية"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "من نحن"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "التصنيفات"
+    url = "/categories/"
+    weight = 3
+    
+[[menu.main.ar]] 
+    name = "وسوم"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "اشترك"
+    url = "/index.xml"
+    
+    
 [params]
     description = "A Saudi Data Journal"
     summary_length = 300
